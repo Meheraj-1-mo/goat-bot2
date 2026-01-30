@@ -16,15 +16,15 @@ config: {
   onStart: async function ({ api, event }) {
   try {
     const ownerInfo = {
-      name: 'MAHBUB ULLASH',
+      name: 'MEHERAJ HOSSAIN',
       gender: 'Male',
-      age: '21+',
+      age: '18+',
       height: 'Unknown',
-      facebookLink: 'https://www.facebook.com/CYBER.ULLASH',
-      nick: 'ULLASH\n\n𝐅𝐨𝐫 𝐦𝐨𝐫𝐞 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐯𝐢𝐬𝐢𝐭: https://mahbub-ullash.cyberbot.top'
+      facebookLink: 'https://www.facebook.com/junghoseog.2025',
+      nick: 'MEHERAJ\n\n𝐅𝐨𝐫 𝐦𝐨𝐫𝐞 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐯𝐢𝐬𝐢𝐭: https://www.facebook.com/junghoseog.2025'
     };
 
-    const bold = 'https://files.catbox.moe/1dwo7j.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
+    const bold = 'https://i.postimg.cc/JzBBNFcw/612621109-896418862914522-7066807854355757624-n.jpg'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
 
     const tmpFolderPath = path.join(__dirname, 'tmp');
 
