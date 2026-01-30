@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const UPoLPrefix = ['-ai', 'ai', '/ai', '', 'ask'];
+const UPoLPrefix = ['-agent', 'agent', '/agent', '', 'ask'];
 
 module.exports = {
   config: {
